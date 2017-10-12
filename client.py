@@ -1,6 +1,7 @@
 #!/user/bin/env python
 # author：zoe
 # client 客户端
+#date：2017/10/12
 import socket
 
 client = socket.socket()
