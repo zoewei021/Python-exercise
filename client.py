@@ -2,6 +2,7 @@
 # author：zoe
 # client 客户端
 #date：2017/10/12
+#修改内容
 import socket
 
 client = socket.socket()
